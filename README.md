@@ -2,34 +2,19 @@
 
 ## Descrição
 - Este projeto implementa um sistema bancário simples em Java, demonstrando conceitos fundamentais de Programação Orientada a Objetos (POO) como:
-Abstração
-Encapsulamento
-Herança
-Polimorfismo
+abstração, encapsulamento, herança e polimorfismo
 
-- Funcionalidades
-Criação de contas correntes e poupança
+- Funcionalidades:
+criação de contas correntes e poupança
 
 - Operações bancárias básicas:
-Depósito
-Saque
-Transferência entre contas
-Consulta de saldo
-Conta poupança com rendimento
-Conta corrente com cheque especial
+depósito, Saque, transferência entre contas, consulta de saldo, conta poupança com rendimento e conta corrente com cheque especial
 
-- Tecnologias Utilizadas
-Java
-Lombok
+- Tecnologias Utilizadas:
+Java e Lombok
 
-- Como Executar
-Certifique-se de ter o Java JDK instalado
-Configure o Lombok no seu IDE
-Compile e execute a classe Banco
+- Como Executar:
+certifique-se de ter o Java JDK instalado, configure o Lombok no seu IDE e compile e execute a classe banco
 
-- Estrutura de Classes
-Conta (classe abstrata)
-ContaCorrente (herda de Conta)
-ContaPoupanca (herda de Conta)
-Cliente (armazena informações do cliente)
-Banco (classe principal com método main)
+- Estrutura de Classes:
+conta (classe abstrata), contaCorrente (herda de Conta), contaPoupanca (herda de Conta), cliente (armazena informações do cliente) e banco (classe principal com método main)
